@@ -21,7 +21,7 @@ export const data = [
     title: "Personal Portfolio",
     desc:
     "I've built my personal portfolio using React and Tailwind CSS, creating a sleek and functional showcase of my skills and projects. It reflects my commitment to web development and design, offering visitors a dynamic and user-friendly experience.",
-    link: "https://travel-agency-vite.netlify.app",
-    git: "",
+    link: "https://portfolio-main-five-blond.vercel.app/",
+    git: "https://github.com/lakshy8734/Portfolio-main/tree/main",
   },
 ];
