@@ -100,8 +100,8 @@ const Hero = () => {
             <img
               loading="lazy"
               data-aos="fade-up"
-              className=" h-[90%] w-full object-cover md:h-[95%] md:m-auto sm:m-0 rounded-md"
-              src="https://ik.imagekit.io/n4hzszl2d/myself.jpg?updatedAt=1700220296615"
+              className=" h-[120%] w-full object-cover md:h-[115%] md:m-auto sm:m-0 rounded-md mt-[-40px]"
+              src="https://ik.imagekit.io/n4hzszl2d/myself.jpg?updatedAt=1700220807164"
               // src={mine}
               alt="mine"
             />
@@ -113,7 +113,7 @@ const Hero = () => {
               >
                 <img
                   loading="lazy"
-                  className=" w-[135px] md:w-[90px] circle-text"
+                  className=" w-[135px] md:w-[90px] circle-text mt-2 md:mt-0 ml-2 md:ml-0"
                   src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107"
                   alt=""
                 />
