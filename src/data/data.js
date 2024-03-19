@@ -24,4 +24,13 @@ export const data = [
     link: "https://portfolio-main-five-blond.vercel.app/",
     git: "https://github.com/lakshy8734/Portfolio-main/tree/main",
   },
+  {
+    id: 4,
+    img: "https://ik.imagekit.io/n4hzszl2d/Screenshot%20(76).png?updatedAt=1710874025964",
+    title: "Hungrio - Food Ordering App",
+    desc:
+    "Hungrio: A Cutting-Edge Full-Stack MERN Application Revolutionizing the Food Ordering Landscape by Offering a Seamless, Secure, and Engaging Platform for Discovering, Ordering, and Managing Favorite Cuisines from a Wide Range of Restaurants.",
+    link: "https://frontend-omega-three-84.vercel.app/signup",
+    git: "https://github.com/lakshy8734/Hungrio_Mern",
+  },
 ];
