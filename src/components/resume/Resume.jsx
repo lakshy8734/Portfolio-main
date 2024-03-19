@@ -23,7 +23,7 @@ const Resume = () => {
             className=" w-[80%] p-5 py-12 sm:py-8 sm:w-full sm:p-2"
           >
             <legend className=" w-auto ml-[50%] translate-x-[-50%] border-2 border-gray-200 rounded-3xl py-1 px-8 font-semibold text-xl text-yellow-500">
-              Internship
+              Experience
             </legend>
             <div className=" relative">
               {/* design */}
@@ -35,25 +35,16 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Full Stack Blockchain Developer Intern
+                  Full Stack Blockchain Developer 
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  3.0 Verse
+                  Zanthium Technosoft
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Sept 2023 - Dec 2023
+                  Sept 2023 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  In my ongoing internship at 3.0 Verse, I hold the role of a
-                  Full Stack Blockchain Developer intern with a primary focus on
-                  frontend development utilizing React JS. My responsibilities
-                  encompass crafting interactive and user-friendly interfaces to
-                  enhance the overall user experience. On the backend, I am
-                  actively engaged in Solidity for Smart Contract development.
-                  My duties extend to Integration and Deployment using Ether Js
-                  and Hardhat, ensuring seamless functionality and performance.
-                  This experience allows me to blend my frontend expertise with
-                  blockchain technologies.
+                  At Zanthium Technosoft, I have been a key player in developing and deploying decentralized applications (DApps) and financial services using blockchain technology. My role encompasses smart contract development, DApp creation, integration with existing systems, and the development of decentralized financial (DeFi) solutions. I have ensured the security, compliance, and user-friendly design of our blockchain-based services, contributing significantly to the company's growth and the wider adoption of blockchain technology. Additionally, I have led cross-functional teams to overcome challenges and achieve project milestones, fostering a culture of innovation and excellence within the company.
                 </p>
               </div>
             </div>
