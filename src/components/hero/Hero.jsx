@@ -102,7 +102,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="right top-5 flex-1 flex items-center justify-center md:items-end sm:items-end">
-          <div className="relative h-[88%] w-[75%] flex items-center sm:items-end">
+          <div className="relative h-[88%] w-[80%] flex items-center sm:items-end">
             <svg
               viewBox="20 0 160 180"
               xmlns="http://www.w3.org/2000/svg"
