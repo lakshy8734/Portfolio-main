@@ -9,7 +9,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Lakshy..Resume.pdf";
+import resumePDF from "../../assets/Lakshy_Resume_2024.pdf";
 import { data } from "./../../data/data";
 
 const Hero = () => {
@@ -26,7 +26,13 @@ const Hero = () => {
             </h2>
             <TypeAnimation
               data-aos="fade-up"
-              sequence={["Web Developer", 2000, "Blockchain Developer", 2000, ""]}
+              sequence={[
+                "Mern Stack Developer",
+                2000,
+                "Full Stack Blockchain Developer",
+                2000,
+                "",
+              ]}
               speed={30}
               wrapper="h2"
               repeat={Infinity}
@@ -95,29 +101,39 @@ const Hero = () => {
             </ul>
           </div>
         </div>
-        <div className="right  top-5 flex-1 flex items-center justify-center md:items-end sm:items-end">
-          <div className="relative h-[88%] w-fit flex items-center sm:items-end">
+        <div className="right top-5 flex-1 flex items-center justify-center md:items-end sm:items-end">
+          <div className="relative h-[88%] w-[75%] flex items-center sm:items-end">
+            <svg
+              viewBox="20 0 160 180"
+              xmlns="http://www.w3.org/2000/svg"
+              className="absolute inset-0 z-0"
+            >
+              <path
+                fill="#F1C21B"
+                d="M41.7,-66.8C55.1,-64.4,67.9,-55.5,72.7,-43.3C77.5,-31.1,74.3,-15.5,73.3,-0.6C72.3,14.4,73.6,28.8,67.4,38.7C61.3,48.5,47.7,53.8,35.2,61.9C22.8,69.9,11.4,80.7,0.4,80.1C-10.7,79.5,-21.3,67.5,-29.2,56.8C-37.1,46.1,-42.2,36.7,-52.6,27.4C-63,18.2,-78.8,9.1,-81.3,-1.4C-83.8,-12,-73,-24,-61.5,-31.3C-49.9,-38.6,-37.6,-41.2,-27.3,-45.4C-16.9,-49.6,-8.4,-55.3,2.8,-60.2C14.1,-65.2,28.2,-69.2,41.7,-66.8Z"
+                transform="translate(100 100)"
+              />
+            </svg>
             <img
               loading="lazy"
               data-aos="fade-up"
-              className=" h-[120%] w-full object-cover md:h-[115%] md:m-auto sm:m-0 rounded-md mt-[-40px]"
+              className="h-[120%] w-full object-cover md:h-[115%] md:m-auto sm:m-0 rounded-md mt-[-40px] z-10"
               src="https://ik.imagekit.io/n4hzszl2d/myself.jpg?updatedAt=1700220807164"
-              // src={mine}
               alt="mine"
             />
-            <div className=" absolute bottom-10 md:bottom-3 right-2 md:right-6">
+            <div className="absolute bottom-10 md:bottom-3 right-2 md:right-6 z-10">
               <div
                 data-aos="zoom-in"
                 data-aos-duration="1000"
-                className=" relative cursor-pointer"
+                className="relative cursor-pointer"
               >
                 <img
                   loading="lazy"
-                  className=" w-[135px] md:w-[90px] circle-text mt-2 md:mt-0 ml-2 md:ml-0"
+                  className="w-[135px] md:w-[90px] circle-text mt-2 md:mt-0 ml-2 md:ml-0"
                   src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107"
                   alt=""
                 />
-                <FaPlay className=" text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]" />
+                <FaPlay className="text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]" />
               </div>
             </div>
           </div>

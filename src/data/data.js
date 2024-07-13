@@ -1,10 +1,9 @@
-
 export const data = [
   {
     id: 1,
     img: "https://ik.imagekit.io/n4hzszl2d/nft%20marketplace.png?updatedAt=1700233037466",
-    title: "NFT Marketplace (Live)",
-    desc:"Developed and deployed secure NFT marketplace smart contracts on the Solana blockchain using Solidity and Hardhat. Integrated frontend with React.js and Ether.js, ensuring a seamless user experience for buyers and sellers.",
+    title: "NFT Marketplace ",
+    desc: "Developed and deployed secure NFT marketplace smart contracts on the Solana blockchain using Solidity and Hardhat. Integrated frontend with React.js and Ether.js, ensuring a seamless user experience for buyers and sellers.",
     link: "https://nft-store-azure.vercel.app/",
     git: "https://github.com/lakshy8734/NFT-Marketplace",
   },
@@ -17,11 +16,26 @@ export const data = [
   },
   {
     id: 3,
-    img: "https://ik.imagekit.io/n4hzszl2d/portfolioss.png?updatedAt=1700233319852",
-    title: "Personal Portfolio",
-    desc:
-    "I've built my personal portfolio using React and Tailwind CSS, creating a sleek and functional showcase of my skills and projects. It reflects my commitment to web development and design, offering visitors a dynamic and user-friendly experience.",
-    link: "https://portfolio-main-five-blond.vercel.app/",
-    git: "https://github.com/lakshy8734/Portfolio-main/tree/main",
+    img: "https://ik.imagekit.io/n4hzszl2d/Screenshot%20(247).png?updatedAt=1720858303081",
+    title: "Aryan Hospital",
+    desc: "I developed a comprehensive full stack application for Aryan Hospital utilizing the MERN stack, Tailwind CSS, and Firebase. The project includes a fully functional dashboard and robust authentication system. This solution streamlines hospital management processes and enhances user experience through a modern and responsive interface.",
+    link: "https://aryan-front.vercel.app/",
+    git: "https://github.com/lakshy8734/Aryan-Hospital-Mern",
+  },
+  {
+    id: 4,
+    img: "https://ik.imagekit.io/n4hzszl2d/Screenshot%20(250).png",
+    title: "MOW Blogging Site",
+    desc: "The full stack MERN blogging site for anime and gaming enthusiasts is now complete, with only a few features remaining to be finalized. This platform provides an engaging and interactive space for users to share and discuss their favorite anime and gaming content, featuring dynamic content management and a user-friendly interface.",
+    link: "https://mow-project.vercel.app/",
+    git: "https://github.com/lakshy8734/MOW-PROJECT",
+  },
+  {
+    id: 5,
+    img: "https://ik.imagekit.io/n4hzszl2d/Screenshot%20(251).png",
+    title: "GEPS Presale",
+    desc: "The GEPS project is a cutting edge blockchain application built with Next.js. It leverages shadcn for UI components, Firebase for backend services, and smart contract integration. This project exemplifies the seamless integration of modern web technologies with blockchain, providing a robust and scalable solution for decentralized applications.",
+    link: "https://geps-token.vercel.app/",
+    git: "https://github.com/lakshy8734/GEPS-PROJECT",
   },
 ];
