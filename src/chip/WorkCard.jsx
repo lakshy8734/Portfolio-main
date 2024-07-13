@@ -68,6 +68,7 @@ const WorkCard = () => {
       },
     ],
   };
+  
 
   return (
     <div id="work-card" className="container mx-auto mt-16 px-4">

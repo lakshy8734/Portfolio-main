@@ -55,6 +55,7 @@ const Resume = () => {
           Here are my experiences and qualifications.
         </p>
       </div>
+
       {/* Carousel */}
       <Slider {...settings}>
         {/* Full Stack Developer Slide */}
@@ -107,6 +108,7 @@ const Resume = () => {
             </div>
           </div>
         </div>
+
         {/* Full Stack Blockchain Developer Slide */}
         <div>
           <div className="card-wrapper w-[90%] sm:w-full mt-5 flex md:flex-col sm:gap-5 mx-auto">
@@ -134,20 +136,22 @@ const Resume = () => {
                       Zanthium Technosoft
                     </span>
                     <span className="text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                      Dec 2023 - March 2024
+                      Dec 2023 - Mar 2024
                     </span>
                     <p className="text-[.9rem] text-justify break-words text-gray-500">
-                      During my tenure as a Full Stack Blockchain Developer at
-                      Zanthium Technosoft, I specialized in developing
-                      blockchain-based applications. I utilized Ethereum and
-                      Solidity for smart contract development and integrated
-                      them with web applications using Web3.js. My role involved
-                      ensuring secure and efficient transaction handling,
-                      developing decentralized applications (DApps), and
-                      collaborating with the development team to enhance
-                      blockchain solutions. This experience allowed me to deepen
-                      my understanding of blockchain technology and its
-                      real-world applications.
+                      At Zanthium Technosoft, I have been a key player in
+                      developing and deploying decentralized applications
+                      (DApps) and financial services using blockchain
+                      technology. My role encompasses smart contract
+                      development, DApp creation, integration with existing
+                      systems, and the development of decentralized financial
+                      (DeFi) solutions. I have ensured the security, compliance,
+                      and user-friendly design of our blockchain-based services,
+                      contributing significantly to the company's growth and the
+                      wider adoption of blockchain technology. Additionally, I
+                      have led cross-functional teams to overcome challenges and
+                      achieve project milestones, fostering a culture of
+                      innovation and excellence within the company.
                     </p>
                   </div>
                 </div>
@@ -155,6 +159,7 @@ const Resume = () => {
             </div>
           </div>
         </div>
+
         {/* Education Slide */}
         <div>
           <div className="card-wrapper w-[90%] sm:w-full mt-5 flex md:flex-col sm:gap-5 mx-auto">
