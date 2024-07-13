@@ -39,7 +39,7 @@ export const data = [
     git: "https://github.com/lakshy8734/GEPS-PROJECT",
   },
   {
-    id: 4,
+    id: 6,
     img: "https://ik.imagekit.io/n4hzszl2d/Screenshot%20(76).png?updatedAt=1710874025964",
     title: "Hungrio - Food Ordering App",
     desc:
